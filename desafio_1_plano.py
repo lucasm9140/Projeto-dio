@@ -1,3 +1,6 @@
+#Autor: Lucas matheus
+#Curso: Dio - Bootcamp Python & IA
+# Função para verificar e printar o consumo médio
 def recomendar_plano(consumo_medio):
     if consumo_medio <= 10:
         return "Plano Essencial Fibra - 50Mbps"
